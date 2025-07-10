@@ -38,7 +38,7 @@ To get started with CodeSync, you'll need to have Node.js and pnpm installed on 
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/codesync.git
+   git clone https://github.com/MeAkash77/CodeSync.git
    ```
 
 2. **Install dependencies:**

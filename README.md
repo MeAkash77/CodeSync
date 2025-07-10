@@ -7,7 +7,7 @@ CodeSync is a real-time collaborative coding environment powered by ai that allo
 
 ## Installation
 
-![image](<img width="959" height="443" alt="Image" src="https://github.com/user-attachments/assets/9fb0e2f9-7564-425c-a3a0-425f12a3d264" />)
+<img width="959" height="443" alt="Image" src="https://github.com/user-attachments/assets/9fb0e2f9-7564-425c-a3a0-425f12a3d264" />
 
 
 ## Features
